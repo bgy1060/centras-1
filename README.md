@@ -16,9 +16,8 @@
 
 - 이화여자대학교 캡스톤 경진대회 **장려상**
 - 2020 SW 인재 페스티벌 **최우수상(정보통신기획평가원장상)**
-  - 결과 영상 링크
-    - 시연 영상 : https://youtu.be/9R8Mz1bp0ms
-       - 공모전 : https://swhrfestival.kr/swuniv/cate04/page01_view.do 
+- 시연 영상 : https://youtu.be/9R8Mz1bp0ms
+- 공모전  : https://swhrfestival.kr/swuniv/cate04/page01_view.do 
 
 <br/>
 
